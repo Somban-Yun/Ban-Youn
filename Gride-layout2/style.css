@@ -1,6 +1,6 @@
 
 .card:hover{
-  box-shadow: 10px 10px 15px #8080808a;
+  box-shadow: 10px 10px 16px #8080808a;
 }
 .Card-container{
   display: flex;
