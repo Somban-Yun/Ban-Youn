@@ -9,11 +9,7 @@
   background-color: #e5e5e5;
  
 }
-/* .card :hover,
-.card :active span{
-  margin-top: 1rem;
-  box-shadow: 0 4px 6px -1px rgb(0, 0, 0.5);
-} */
+
 .card{
   margin: 10px;
   transition: 0.4s; 
